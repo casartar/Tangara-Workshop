@@ -122,4 +122,46 @@ Platziere nun den Halterahmen für den Akku wie im Bild abgebildet. Auf der link
 Platziere nun den Akku wie im Bild.
 ![](Pictures/Schritt3.jpg)
 
+Setze nun das Mainboard auf die Schrauben. Achte darauf das Batteriekabel wie abgebildet zu legen.
+![](/Pictures/Schritt4.jpg)
 
+Schraube nun die Distanzhülsen auf die Schrauben in den Ecken.
+Stelle nun sicher, dass der Schalter auf "Aus" steht (untere Stellung). Schließe dann den Akku an.
+![](/Pictures/Schritt5.jpg)
+
+Nun kannst du den Schiebeschalter einsetzen. Achte darauf dass du ihn vollständig einsetzt.
+![](/Pictures/Schritt6.jpg)
+![](/Pictures/Schritt7.jpg)
+
+Jetzt wirds kniffelig. Klappe den schwarzen Arm für das Flachbandkabel nach oben. Stecke nun das Flachbandkabel ein. Achte darauf, dass die "blaue" Seite auf der Oberseite ist und das Kabel vollständig eingesteckt ist. Klappe dann den schwarzen Arm herunter um das Kabel zu sichern..
+![](/Pictures/Schritt8.jpg)
+
+Nimm nun die Faceplate-Platine und positioniere sie so, dass du auf der gegenüberliegenden Seite nun auch das Flachbandkabel einstecken kannst.
+![](/Pictures/Schritt9.jpg)
+![](/Pictures/Schritt10.jpg)
+![](/Pictures/Schritt11.jpg)
+
+Klappe nun die Faceplate auf die Abstandhülsen. Achte darauf dass sich das Flachbandkabel korrekt zusammenfaltet.
+Lege das Touchwheel obenauf.
+![](/Pictures/Schritt12.jpg)
+
+Ziehe nun die Schutzfolie von der Displayabdeckung.
+Vermeide mit deinen Fingern direkt auf die Flächen zu tippen.
+![](/Pictures/Schritt13.jpg)
+![](/Pictures/Schritt14.jpg)
+
+Ziehe nun auch die Schutzfolie vom Display und lege die Abdeckung vorsichtig auf das Display.
+![](/Pictures/Schritt15.jpg)
+
+Jetzt wirds noch kniffliger! Lege vorsichtig die vordere Abdeckung des Tangaras auf die Facplate, versuche vor allem die Displayabdeckung korrekt zu positionieren. Das Touchwheel kannst du auch von der Vorderseite richtig positionieren. Wenn sich die Vorderseite auf der Unterseite poisionieren lässt, hast du es fast geschafft.
+![](/Pictures/Schritt16.jpg)
+
+Schraube den Tangara noch nicht zu! Jetzt musst du noch die Buttons hereinfummeln.
+Am besten hälst du den Tangara mit einer Hand gerade so weit zusammen, dass die Vorderseite intakt bleibt und du die Buttons seitlich einschieben kannst. Die Bilder zeigen dir ungefähr wie.
+![](/Pictures/Schritt17.jpg)
+![](/Pictures/Schritt18.jpg)
+![](/Pictures/Schritt19.jpg)
+
+Jetzt kannst du den Tangara zuschrauben. Stecke noch Abdeckung auf die SD Karte und du bist fertig!
+![](/Pictures/Schritt20.jpg)
+![](/Pictures/Schritt21.jpg)
