@@ -68,7 +68,7 @@ Bist du fertig mit dem Bestücken begib dich vorsichtig mit deiner Platine in de
 Mache eine kleine Pause während der Ofen seinen Job erledigt. Es ist noch ein gutes Stück. Siehe Pause 1.
 
 ### Schritt 5 - Festlöten des Akku-Steckers und der Audio-Buchse
-Begib dich zur Reworkstation. Frage dort nach den Steckern. Dann bekommst du ein Tüte mit Bauteilen.
+Begib dich zur Rakelstation. Frage dort nach den Steckern. Dann bekommst du ein Tüte mit Bauteilen.
 
 Löte mit dem Lötkolben den Akku-Stecker J7 fest.
 
