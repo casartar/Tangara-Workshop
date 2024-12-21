@@ -24,7 +24,7 @@ Als erstes musst du die Datei [ibom_mainboard.html](ibom_mainboard.html) aus die
 Nun wird die Topseite des Mainboards mit Lötpaste versehen, indem diese mit Hilfe der Lötschablone aufgerakelt wird.
 Gehe hierzu zur Rakelstation dort bekommst du deine Mainboard-Platine.
 
-Die Platine sollte ungeführ so aussehen:
+Die Platine sollte ungefähr so aussehen:
 ![](Pictures/PCB1.jpg)
 
 **Bitte beachte, dass wir bleihaltige Lötpaste verwenden, weshalb du darauf achten solltest, in den Pausen immer deine Hände zu waschen, bevor du etwas isst oder trinkst.**
@@ -43,13 +43,13 @@ Mache eine kleine Pause während der Ofen seinen Job erledigt. Es wird noch anst
 ### Schritt 3 - Bestücken der Bottom-Seite des Mainboards
 Schalte die ibom für die Unterseite um, indem du oben rechts den Button "B" auswählst.
 
-Gehe zur Rakelstation hier wird die Unterseite mit Lötpaste versehen.
+Gehe zur Rakelstation. Hier wird die Unterseite mit Lötpaste versehen.
 
 Die Bauteile für die Bottom-Seite des Mainboards und der Faceplate bekommst du jetzt in einer weiteren Sortierbox.
 
 Setze die Platine in die Bestückungshilfe. Ansonsten verfahre wie zuvor.
 
-#############
+![](Pictures/PCB21.jpg)
 
 Bitte beachte, dass es zwei Zeilen für 10k Widerstände gibt. Es handelt sich aber um das gleiche Bauteil.
 
@@ -79,8 +79,7 @@ Zur verdeutlichung nochmal als Bilder:
 
 Löte dann die Audio-Buchse J1 fest.
 
-HIER BILD EINFÜGEN
-
+![](Pictures/PCB51.jpg)
 ### Schritt 6 - Rework Mainboard
 Begibt dich mit dem fertigen Mainboard zur Reworkstation. Dort wird geprüft, ob es Kurzschlüsse gibt und diese werden ggf. beseitigt. 
 
