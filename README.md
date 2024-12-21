@@ -8,6 +8,7 @@ Erfahung mit dem SMD-Bestücken von Platinen oder gute Augen, eine ruhige Hand u
 ## Mitbringen
 - Zwingend
     - Laptop/Tablet/Smartphone zum ansehen der Anleitung
+    - SD-Karte
 - Optional
     - Außensechskant 3mm (z. B. https://www.amazon.de/dp/B001553QW8)
     - Torx T5 (z. B. https://www.amazon.de/dp/B0B61C6YSX)
