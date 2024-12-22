@@ -53,7 +53,7 @@ Setze die Platine in die Bestückungshilfe. Ansonsten verfahre wie zuvor.
 
 Bitte beachte, dass es zwei Zeilen für 10k Widerstände gibt. Es handelt sich aber um das gleiche Bauteil.
 
-Achte bei den Schaltern SW1 und SW2 darauf, dass sie korrekt, gerade und so weit innen wie möglich platziert sind.
+Achte bei den Schaltern SW2 und SW3 darauf, dass sie korrekt, gerade und so weit innen wie möglich platziert sind.
 
 Achte bei der USB-Buchse J6 darauf, dass die Beinchen zentral in den Langlöchern positioniert sind.
 
