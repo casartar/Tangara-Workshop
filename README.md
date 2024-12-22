@@ -7,7 +7,7 @@ Der Workshop kostet 100€. Am liebsten in Bar, im Notfall per Paypal.
 Erfahung mit dem SMD-Bestücken von Platinen oder gute Augen, eine ruhige Hand und Geduld. 
 ## Mitbringen
 - Zwingend
-    - Laptop/Tablet/Smartphone zum Betrachten der Anleitung
+    - Laptop/Tablet zum Betrachten der Anleitung
     - SD-Karte (qualitativ hochwertig)
 - Optional
     - Außensechskant 3mm (z. B. https://www.amazon.de/dp/B001553QW8)
