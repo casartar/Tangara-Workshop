@@ -4,7 +4,7 @@
 ## Kosten
 Der Workshop kostet 100€. Am liebsten in Bar, im Notfall per Paypal.
 ## Voraussetzung
-Erfahung mit dem SMD-Bestücken von Platinen oder gute Augen, eine ruhige Hand und Geduld. 
+Erfahrung mit dem SMD-Bestücken von Platinen oder gute Augen, eine ruhige Hand und Geduld.
 ## Mitbringen
 - Zwingend
     - Laptop/Tablet/Smartphone zum Betrachten der Anleitung
