@@ -24,7 +24,7 @@ Als erstes musst du die Datei [ibom_mainboard.html](https://html-preview.github.
 Nun wird die Topseite des Mainboards mit Lötpaste versehen, indem diese mit Hilfe der Lötschablone aufgerakelt wird.
 Gehe hierzu zur Rakelstation dort bekommst du deine Mainboard-Platine.
 
-Die Platine sollte ungefähr so aussehen:
+Spanne die Platine nun in die Halterung ein. Die Platine sollte ungefähr so aussehen:
 ![](Pictures/PCB1.jpg)
 
 **Bitte beachte, dass wir bleihaltige Lötpaste verwenden, weshalb du darauf achten solltest, in den Pausen immer deine Hände zu waschen, bevor du etwas isst oder trinkst.**
