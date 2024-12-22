@@ -100,7 +100,7 @@ Mache eine kleine Pause während der Ofen seinen Job erledigt. Der Bestückungsp
 ### Schritt 9 - Festlöten des Vibrationsmotors auf der Bottom-Seite der Faceplate
 Suche in der Tüte nach dem Motor.
 
-Löte den Vibrationsmotor an die beiden Pads die mit "Haptics" beschriftet sind. Rot an + und Blau an -.
+Löte den Vibrationsmotor an die beiden Pads die mit "Haptics" beschriftet sind. Rot an + und Blau an -. Nach dem Löten wird die Schutzfolie vom Vibrations-Motor abgezogen, und der dann aufgeklebt. Achte darauf, das die Kabel flach und ohne mechanische Belastung liegen.
 ![](Pictures/PCB7.jpg)
 
 ### Schritt 10 - Festlöten des Displays auf der Top-Seite der Faceplate
