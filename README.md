@@ -19,7 +19,7 @@ Erfahung mit dem SMD-Bestücken von Platinen oder gute Augen, eine ruhige Hand u
 ## Anleitung
 
 ### Schritt 1 - Bestücken der Top-Seite des Mainboards
-Als erstes musst du die Datei [ibom_mainboard.html](ibom_mainboard.html) aus diesem Repository herunterladen (mit dem "Download raw file" Button) und im Browser öffnen. Die Datei (ibom) enthält eine Liste der Bauteile, die du bestücken musst und zeigt an, wo diese auf der Platine hingehören. Du musst als erstes die Top-Seite auswählen, indem du oben rechts den Button mit "F" auswählst. Topseite ist hier nicht als "Oberseite" im fertigen Tangara zu verstehen, sondern nur innerhalb der Platinenfertigung die als Oberseite deklarierte Seite. Wähle außerdem mit dem Zahnrad die Voreinstellung aus, dass "Pin 1" in der ibom Ansicht markiert werden soll, um sicherzustellen, dass du die Teile korrekt orientierst.
+Als erstes musst du die Datei [ibom_mainboard.html](https://html-preview.github.io/?url=https://github.com/casartar/Tangara-Workshop/blob/main/ibom_mainboard.html) öffnen. Die Datei (ibom) enthält eine Liste der Bauteile, die du bestücken musst und zeigt an, wo diese auf der Platine hingehören. Du musst als erstes die Top-Seite auswählen, indem du oben rechts den Button mit "F" auswählst. Topseite ist hier nicht als "Oberseite" im fertigen Tangara zu verstehen, sondern nur innerhalb der Platinenfertigung die als Oberseite deklarierte Seite. Wähle außerdem mit dem Zahnrad die Voreinstellung aus, dass "Pin 1" in der ibom Ansicht markiert werden soll, um sicherzustellen, dass du die Teile korrekt orientierst.
 
 Nun wird die Topseite des Mainboards mit Lötpaste versehen, indem diese mit Hilfe der Lötschablone aufgerakelt wird.
 Gehe hierzu zur Rakelstation dort bekommst du deine Mainboard-Platine.
@@ -84,7 +84,7 @@ Löte dann die Audio-Buchse J1 fest.
 Begibt dich mit dem fertigen Mainboard zur Reworkstation. Dort wird geprüft, ob es Kurzschlüsse gibt und diese werden ggf. beseitigt. 
 
 ### Schritt 7 - Bestücken der Bottom-Seite der Faceplate
-Lade die Datei [ibom_faceplate.html](ibom_faceplate.html) aus diesem Repository herunterladen und öffne sie im Browser. Schalte die ibom für die Unterseite um, indem du oben rechts den Button "B" auswählst.
+Öffne die Datei [ibom_faceplate.html](https://html-preview.github.io/?url=https://github.com/casartar/Tangara-Workshop/blob/main/ibom_faceplate.html) aus diesem Repository. Schalte die ibom für die Unterseite um, indem du oben rechts den Button "B" auswählst.
 
 Gehe zur Rakelstation dort bekommst du deine Faceplate-Platine. Hier wird die Bottom-Seite mit Lötpaste versehen.
 
