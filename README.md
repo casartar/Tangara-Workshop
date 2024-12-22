@@ -136,8 +136,8 @@ Du solltest nun folgende Komponenten vor dir haben:
 - 1x Mainboard
 - 1x Akku
 - 1x Halterahmen für den Akku
-- 2x Druckknöpfe
-- 1x Schiebeschalter
+- 2x Kappe für Taster
+- 1x Kappe für Schiebeschalter
 - 1x Abdeckung für die SD-Karte
 - 1x Displayabdeckung
 
