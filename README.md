@@ -19,7 +19,7 @@ Erfahung mit dem SMD-Bestücken von Platinen oder gute Augen, eine ruhige Hand u
 
 ## Anleitung
 
-Ließ vor jedem Schritt bitte den entsprechenden Abschnitt **komplett** durch.
+Lies vor jedem Schritt bitte den entsprechenden Abschnitt **komplett** durch.
 
 ### Übersicht
 1. Bestücken des Mainboards, Top-Seite
