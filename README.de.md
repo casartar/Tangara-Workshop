@@ -1,6 +1,5 @@
-[![en](https://img.shields.io/badge/lang-en-green.svg)](https://github.com/casartar/README.md)
-[![de](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/casartar/README.de.md)
-
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/casartar/Tangara-Workshop/blob/main/README.md)
+[![de](https://img.shields.io/badge/lang-de-green.svg)](https://github.com/casartar/Tangara-Workshop/blob/main/README.de.md)
 
 
 # Tangara-Workshop
