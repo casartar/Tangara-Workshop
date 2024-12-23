@@ -98,8 +98,9 @@ Löte dann die Audio-Buchse J1 fest.
 
 
 ### Schritt 6 - Programmieren und Rework
-Gehe zur Programmierstation. Hier bekommst Du die Faceplate und kannst daran weiterarbeiten. Wir versorgen in der gleichen Zeit das Mainboard mit Firmware und Prüfen es auf Kurzschlüsse und Lötfehler. Hier testen wir auch die wichtigsten Funktionen des Mainboards.
+Bringe dein fertiges Mainboard in der Halterung zur Programmierstation. Wir versorgen das Mainboard mit Firmware und Prüfen es auf Kurzschlüsse und Lötfehler. Hier testen wir auch die wichtigsten Funktionen des Mainboards.
 Sollte uns bei der Prüfung etwas auffallen, werden wir die Fehler bei der Reworkstation beheben.
+Du kannst währenddessen mit Schritt 7 weitermachen.
 
 
 ### Schritt 7 - Bestücken der Bottom-Seite der Faceplate
@@ -118,7 +119,7 @@ Und auch hier gibt es ein Vergleichsbild:
 Mache eine kleine Pause während der Ofen seinen Job erledigt. Der Bestückungspart ist fast geschafft.
 
 
-### Schritt 11 - Festlöten des Displays
+### Schritt 9 - Festlöten des Displays
 Suche in der Tüte nach dem Display. Das Display wird auf der Top-Seite der Faceplate angelötet.
 
 Setze die Platine in die Display-Positionierung-Hilfe.
@@ -135,19 +136,19 @@ Das Lötzinn soll durch die kleinen Löcher der flexiblen Leiterbahn auf die Pla
 ![](Pictures/Display_02.jpg)
 
 
-### Schritt 12 - Festlöten des Vibrationsmotors
+### Schritt 10 - Festlöten des Vibrationsmotors
 Suche in der Tüte nach dem Motor. Der Vibrationsmotor wird auf der Bottom-Seite der Faceplate angelötet.
 
 Löte den Vibrationsmotor an die beiden Pads die mit "Haptics" beschriftet sind. Rot an + und Blau an -. Nach dem Löten wird die Schutzfolie vom Vibrations-Motor abgezogen, und der dann aufgeklebt. Achte darauf, das die Kabel flach und ohne mechanische Belastung liegen.
 ![](Pictures/PCB7.jpg)
 
 
-### Schritt 13 - Faceplate Rework
+### Schritt 11 - Faceplate Rework
 Begibt dich mit der fertigen Faceplate zur Rework-Station. Dort wird geprüft, ob es Kurzschlüsse gibt und diese werden ggf. beseitigt. 
 Hier bekommst Du auch das Flachbandkabel, das beide Platinen verbindet.
 
 
-### Schritt 14 - Mechanischer Zusammenbau
+### Schritt 12 - Mechanischer Zusammenbau
 Wenn alles funktioniert bekommst die Gehäuseteile. Alle anderen mechanischen Teile findest du in deiner Tüte.
 
 Gehe zu deinem Platz zurück und breite die mechanischen Teile vor dir aus.
