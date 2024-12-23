@@ -16,7 +16,7 @@ Experience with SMD assembly of circuit boards or good eyes, a steady hand and p
     - Laptop/tablet to view the instructions
     - SD card (high quality)
 - Optional
-    - Allan wrench 3mm (e.g. https://www.amazon.de/dp/B001553QW8)
+    - Allen wrench 3mm (e.g. https://www.amazon.de/dp/B001553QW8)
     - Torx T5 (e.g. https://www.amazon.de/dp/B0B61C6YSX)
     - Tweezers suitable for SMD work
     - Headphones with 3.5 mm jack
@@ -31,12 +31,12 @@ Please read the relevant section **completely** before beginning each step.
 1. Break 
 1. Assembling the mainboard, bottom side
 1. Break
-1. Solder of THT parts
+1. Soldering THT parts
 1. Programming and rework (if necessary)
 1. Assembling the faceplate, bottom side
 1. Break
-1. Solder the display
-1. Solder the vibration motor
+1. Soldering the display
+1. Soldering the vibration motor
 1. Faceplate rework
 1. Mechanical assembly
 
@@ -61,9 +61,9 @@ After baking, it should look like this:
 Take a short break while the oven does its job. It will be hard enough. This was just the beginning. Go for a run. Wash your hands and have a drink of water, stretch your back, whatever helps :)
 
 ### Step 3 - Assembling the mainboard, bottom side
-Switch the ibom for the bottom side by selecting the ‘B’ button at the top right.
+Switch the ibom to the bottom side by selecting the ‘B’ button at the top right.
 
-Go to the squeegee station. Apply solder paste to the bottom side here.
+Go to the squeegee station. Here, we will apply solder paste to the bottom side.
 
 You will now receive the components for the bottom side of the mainboard and the faceplate in another sorting box.
 
@@ -90,7 +90,7 @@ Take a short break while the oven does its job. There is still a good bit to go.
 ### Step 5 - Soldering the battery connector and the audio socket
 Go to the squeegee station. Ask there for the connectors J1 and J7. You will then be given a bag of components.
 
-Solder the battery connector J7 with the soldering iron.
+Solder on the battery connector J7 with the soldering iron.
 
 In contrast to the original design, we use a battery with only 2 leads and therefore only a two-pin socket. Insert the socket into the holes labelled ‘VDD’ and ‘GND’. Leave ‘10k NTC’ free. 
 
@@ -114,7 +114,7 @@ Go to the squeegee station where you will get your faceplate board, already with
 Proceed as before. The parts are in the second box you received.
 
 Once you have finished assembling, carefully take your board to the baking station. Bake here for the third time.
-For comparision how it should loook, see the following picture:
+For comparison how it should look, see the following picture:
 ![](Pictures/PCB6.jpg)
 
 
@@ -129,8 +129,9 @@ Take a short break while the oven does its job. The assembly part is almost done
 Look for the display in the bag. The display is soldered to the top side of the faceplate.
 
 Place the board in the display positioning aid.
+![](Pictures/Display_01.jpg)
 
-Make very sure that the contacts of the cable are positioned congruently with the copper pads on the board. The orange part of the cable should be almost flush with the edge of the circuit board. If necessary, use sellotape if you are unsure. We will tell you how.
+Make very sure that the contacts of the cable are positioned congruently with the copper pads on the board. The orange part of the cable should be almost flush with the edge of the circuit board. If necessary, use sellotape if you are unsure. You can get some from us.
 
 Solder the display in place with the soldering iron.
 
@@ -151,7 +152,7 @@ Solder the vibration motor to the two pads labelled ‘Haptics’. Red cable to 
 
 
 ### Step 11 - Faceplate rework
-Take the finished faceplate to the rework station. There we will check whether there are any short circuits and these are eliminated if necessary. 
+Take the finished faceplate to the rework station. There we will check whether there are any short circuits and fix them if necessary. 
 Here you will also receive the ribbon cable that connects the two boards.
 
 
@@ -222,7 +223,7 @@ Avoid touching the surface directly with your fingers to prevent fingerprints.
 Remove the protective film from the display and carefully place the cover on the display.
 ![](/Pictures/Assembly15.jpg)
 
-Now it gets even trickier! Carefully place the front cover of the Tangara on the faceplate, especially try to position the display cover correctly. You can also position the touchwheel correctly later from the front (when assembled). If the front of the housing can be positioned flush with the bottom of the housing, you're almost there.
+Now it gets even trickier! Carefully place the front cover of the Tangara on the faceplate, be careful to try to position the display cover correctly. You can also position the touchwheel correctly later from the front (when assembled). If the front of the housing can be positioned flush with the bottom of the housing, you're almost there.
 ![](/Pictures/Assembly16.jpg)
 
 Don't screw the tangara shut yet! Now you have to fiddle in the buttons.
@@ -239,5 +240,3 @@ If you have brought an SD card with you, you can attach the SD card cover and yo
 ## Further information
 - https://cooltech.zone/tangara/
 - https://www.crowdsupply.com/cool-tech-zone/tangara
-
-
