@@ -30,8 +30,8 @@ Lies vor jedem Schritt bitte den entsprechenden Abschnitt **komplett** durch.
 1. Programmieren und Rework
 1. Bestücken der Faceplate Bottom-Seite
 1. Pause
-1. Vibrationsmotor anlöten
 1. Display anlöten
+1. Vibrationsmotor anlöten
 1. Faceplate Rework
 1. Mechanischer Zusammenbau
 
@@ -122,9 +122,10 @@ Mache eine kleine Pause während der Ofen seinen Job erledigt. Der Bestückungsp
 Suche in der Tüte nach dem Display. Das Display wird auf der Top-Seite der Faceplate angelötet.
 
 Setze die Platine in die Display-Positionierung-Hilfe.
+![](Pictures/Display_01.jpg)
+
 Löte mit dem Lötkolben das Display fest.
 Achte sehr genau darauf, dass die Kontakte des Kabels kongruent mit den Kupferpads auf der Platine platziert sind. Der orange Teil des Kabels sollte nahezu bündig mit dem Rand der Platine sein. Nutze ggf. Tesafilm wenn du dir unsicher bist. Das erähltst du von uns.
-
 Fang erst mit den beiden ganz äußeren Pads an und arbeite dich dann weiter vor. Korrekturen sind nur noch schwer möglich, wenn alles schon verlötet ist, frage deswegen bei uns nach wenn du dir unsicher bist.
 
 Das Lötzinn soll durch die kleinen Löcher der flexiblen Leiterbahn auf die Platine da drunter fliessen.
@@ -170,7 +171,6 @@ Du solltest nun folgende Komponenten vor dir haben:
 
 Einen Torx-Schraubendreher und einen Innensechskant musst du dir mit deinem Nachbarn teilen.
 
-HIER BILD ERSETZEN OHNE SD KARTE!!!!!!!!!!!!!!!!
 ![](Pictures/Parts_01.jpg)
 
 Schraube als erstes die langen Schrauben von unten in das Gehäuse für die Rückseite.
