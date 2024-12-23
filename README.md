@@ -1,233 +1,239 @@
-# Tangara-Workshop
+# Tangara workshop
 
 
-## Kosten
-Der Workshop kostet 100€. Am liebsten in Bar, im Notfall per Paypal.
+## Costs
+The workshop costs 100€. Preferably payable in cash, alternatively payable by Paypal.
 
-## Voraussetzung
-Erfahung mit dem SMD-Bestücken von Platinen oder gute Augen, eine ruhige Hand und Geduld. 
-## Mitbringen
-- Zwingend
-    - Laptop/Tablet zum Betrachten der Anleitung
-    - SD-Karte (qualitativ hochwertig)
+## Prerequisite
+Experience with SMD assembly of circuit boards or good eyes, a steady hand and patience. 
+
+## Bring along
+- Mandatory
+    - Laptop/tablet to view the instructions
+    - SD card (high quality)
 - Optional
-    - Außensechskant 3mm (z. B. https://www.amazon.de/dp/B001553QW8)
-    - Torx T5 (z. B. https://www.amazon.de/dp/B0B61C6YSX)
-    - Pinzette
-    - Kopfhörer mit 3,5 mm Klinke
-    - Kopfhörer mit Bluetooth
+    - Allan wrench 3mm (e.g. https://www.amazon.de/dp/B001553QW8)
+    - Torx T5 (e.g. https://www.amazon.de/dp/B0B61C6YSX)
+    - Tweezers suitable for SMD work
+    - Headphones with 3.5 mm jack
+    - Headphones with Bluetooth
 
-## Anleitung
+## Instructions
 
-Lies vor jedem Schritt bitte den entsprechenden Abschnitt **komplett** durch.
+Please read the relevant section **completely** before beginning each step.
 
-### Übersicht
-1. Bestücken des Mainboards, Top-Seite
-1. Pause 
-1. Bestücken des Mainboards, Bottom-Seite
-1. Pause
-1. Akku-Stecker, Audio-Buchse anlöten
-1. Programmieren und Rework
-1. Bestücken der Faceplate Bottom-Seite
-1. Pause
-1. Display anlöten
-1. Vibrationsmotor anlöten
-1. Faceplate Rework
-1. Mechanischer Zusammenbau
+### Overview
+1. Assembling the mainboard, top side
+1. Break 
+1. Assembling the mainboard, bottom side
+1. Break
+1. Solder of THT parts
+1. Programming and rework (if necessary)
+1. Assembling the faceplate, bottom side
+1. Break
+1. Solder the display
+1. Solder the vibration motor
+1. Faceplate rework
+1. Mechanical assembly
 
 
-### Schritt 1 - Bestücken der Top-Seite des Mainboards
-Als erstes musst du die Datei [ibom_mainboard.html](https://html-preview.github.io/?url=https://github.com/casartar/Tangara-Workshop/blob/main/ibom_mainboard.html) öffnen. Die Datei (ibom) enthält eine Liste der Bauteile, die du bestücken musst und zeigt an, wo diese auf der Platine hingehören. Du musst als erstes die Top-Seite auswählen, indem du oben rechts den Button mit "F" auswählst. Topseite ist hier nicht als "Top-Seite" im fertigen Tangara zu verstehen, sondern nur innerhalb der Platinenfertigung die als Top-Seite deklarierte Seite. Wähle außerdem mit dem Zahnrad die Voreinstellung aus, dass "Pin 1" in der ibom Ansicht markiert werden soll, um sicherzustellen, dass du die Teile korrekt orientierst.
+### Step 1 - Assembling the mainboard, top side
+Firstly, you need to open the file [ibom_mainboard.html](https://html-preview.github.io/?url=https://github.com/casartar/Tangara-Workshop/blob/main/ibom_mainboard.html). The file (ibom) contains a list of the components you need to assemble and shows where they belong on the board. You must first select the top page by clicking on the ‘F’ button at the top right. Top side is not to be understood here as the ‘upper side’ in the finished Tangara, but simply the side declared as the top side within the PCB production. Also use the ibom settings (cogwheel top right) to select the default setting that ‘Pin 1’ should be marked in the ibom view on the selected part, to ensure that you orientate the parts correctly.
 
-Wenn du dich mit der Anleitung und IBOM vertraut gemacht hast, gehe zur Rakelstation.
-Hier erhältst du die vorgerakelte Platine in einer Halterung und eine Sortierbox mit Teilen für die Top-Seite des Mainboards.
+Once you have familiarised yourself with the instructions and IBOM, go to the squeegee station.
+Here you will receive the board with solder paste already applied, in a holder, plus a sorting box with parts for the top side of the mainboard.
 ![](Pictures/PCB1.jpg)
-Diese Bauteile musst du entsprechend der ibom mit Hilfe der Pinzette bestücken. Die Bauteile in der Sortierbox sind in der gleichen Reihenfolge angeordnet wie in der ibom.
+You have to assemble these components according to the ibom using the tweezers. The components in the sorting box are arranged in the same order as in the ibom.
 
-**Bitte beachte, dass wir bleihaltige Lötpaste verwenden, weshalb du darauf achten solltest, in den Pausen immer deine Hände zu waschen, bevor du etwas isst oder trinkst.**
+**Please note that we use solder paste containing lead, so you should always make sure to wash your hands during breaks before eating or drinking anything.**
 
-Bitte beachte, dass L1 und L2 das gleiche Bauteil sind. Keine Ahnung warum es zwei Zeilen in der ibom gibt.
+Please note that L1 and L2 are the same component. No idea why there are two lines in the ibom.
 
-Wenn du mit dem Bestücken fertig bist, begib dich mit deiner Platine auf dem Träger zur Backstation. Achte darauf, dass du nicht auf die Top-Seite greifst und Teile verschiebst. Hier kommt die Platine zum ersten Mal in den Ofen.
-Nach dem Backen sollte das Ganze so aussehen:
+When you have finished placing the components, go to the baking station with your circuit board on the carrier. Make sure that you do not touch the top side and accidently move any parts. This is where the board goes into the oven for the first time.
+After baking, it should look like this:
 ![](Pictures/PCB2.jpg)
 
-### Schritt 2 - Pause
-Mache eine kleine Pause während der Ofen seinen Job erledigt. Es wird noch anstrengend genug. Das war erst der Anfang. Lauf eine Runde. Wasche deine Hände und trink einen Schluck Wasser, streck deinen Rücken, was auch immer dir hilft :)
+### Step 2 - Break
+Take a short break while the oven does its job. It will be hard enough. This was just the beginning. Go for a run. Wash your hands and have a drink of water, stretch your back, whatever helps :)
 
-### Schritt 3 - Bestücken der Bottom-Seite des Mainboards
-Schalte die ibom für die Bottom-Seite um, indem du oben rechts den Button "B" auswählst.
+### Step 3 - Assembling the mainboard, bottom side
+Switch the ibom for the bottom side by selecting the ‘B’ button at the top right.
 
-Gehe zur Rakelstation. Hier wird die Bottom-Seite mit Lötpaste versehen.
+Go to the squeegee station. Apply solder paste to the bottom side here.
 
-Die Bauteile für die Bottom-Seite des Mainboards und der Faceplate bekommst du jetzt in einer weiteren Sortierbox.
+You will now receive the components for the bottom side of the mainboard and the faceplate in another sorting box.
 
-Setze die Platine in die Bestückungshilfe. Ansonsten verfahre wie zuvor.
+Place the board in the assembly aid. Otherwise proceed as before.
 
 ![](Pictures/PCB21.jpg)
 
-Bitte beachte, dass es zwei Zeilen für 10k Widerstände gibt. Es handelt sich aber um das gleiche Bauteil.
+Please note that there are two lines in the ibom for 10k resistors. However, it is the same component.
 
-Achte bei den Schaltern SW1 und SW2 darauf, dass sie korrekt, gerade und so weit innen wie möglich platziert sind.
+Make sure that the SW1 and SW2 switches are positioned correctly, straight and as far inwards as possible.
 
-Achte bei der USB-Buchse J6 darauf, dass die Beinchen zentral in den Langlöchern positioniert sind.
+With the USB socket J6, make sure that the legs are positioned in the centre of the slotted holes.
 
-J1 und J7 sind THT Bauteile und werden nach dem Backen mit dem Lötkolben festgelötet, also nicht wundern wenn du dafür noch keine Teile hast.
+J1 and J7 are THT components and are soldered separately by hand. So don't be surprised if you don't have any parts for them yet.
 
-Wenn du alle Teile platziert hast, sollte das folgendermaßen aussehen:
+When you have placed all the parts, it should look like this:
 ![](Pictures/PCB3.jpg)
 
-Bist du fertig mit dem Bestücken begib dich vorsichtig mit deiner Platine in der Bestückungshilfe zur Backstation. Hier kommt die Platine zum zweiten Mal in den Ofen.
+Once you have finished placing the parts, carefully move to the baking station with your PCB in the assembly aid. Here the board goes into the oven for the second time.
 
-### Schritt 4 - Pause
-Mache eine kleine Pause während der Ofen seinen Job erledigt. Es ist noch ein gutes Stück. Siehe Pause 1.
- Seite
-### Schritt 5 - Festlöten des Akku-Steckers und der Audio-Buchse
-Begib dich zur Rakelstation. Frage dort nach den Steckern. Dann bekommst du ein Tüte mit Bauteilen.
+### Step 4 - Break
+Take a short break while the oven does its job. There is still a good bit to go. See pause 1.
 
-Löte mit dem Lötkolben den Akku-Stecker J7 fest.
+### Step 5 - Soldering the battery connector and the audio socket
+Go to the squeegee station. Ask there for the connectors J1 and J7. You will then be given a bag of components.
 
-Im Gegensatz zum Original verwenden wir einen Akku mit nur 2 Leitungen und deshalb auch nur eine Zweipolige Buchse. Setze die Buchse in die Bohrungen ein, die mit "VDD" und "GND" gekennzeichnet sind. Lasse "10k NTC" frei. 
-Zur Verdeutlichung nochmal als Bilder:
+Solder the battery connector J7 with the soldering iron.
+
+In contrast to the original design, we use a battery with only 2 leads and therefore only a two-pin socket. Insert the socket into the holes labelled ‘VDD’ and ‘GND’. Leave ‘10k NTC’ free. 
+
+For clarification again as pictures:
 ![](Pictures/PCB4.jpg)
 ![](Pictures/PCB5.jpg)
 
-Löte dann die Audio-Buchse J1 fest.
-
+Then solder the audio socket J1.
 ![](Pictures/PCB51.jpg)
 
 
-### Schritt 6 - Programmieren und Rework
-Bringe dein fertiges Mainboard in der Halterung zur Programmierstation. Wir versorgen das Mainboard mit Firmware und Prüfen es auf Kurzschlüsse und Lötfehler. Hier testen wir auch die wichtigsten Funktionen des Mainboards.
-Sollte uns bei der Prüfung etwas auffallen, werden wir die Fehler bei der Reworkstation beheben.
-Du kannst währenddessen mit Schritt 7 weitermachen.
+### Step 6 - Programming and rework
+Take your finished mainboard in the holder to the programming station. We supply the mainboard with firmware and check it for short circuits and soldering errors. We also test the main functions of the mainboard here. If we notice anything during the test, we will rectify the errors at the rework station. In the meantime, you can continue with step 7.
 
 
-### Schritt 7 - Bestücken der Bottom-Seite der Faceplate
-Öffne die Datei [ibom_faceplate.html](https://html-preview.github.io/?url=https://github.com/casartar/Tangara-Workshop/blob/main/ibom_faceplate.html) aus diesem Repository. Schalte die ibom für die Bottom-Seite um, indem du oben rechts den Button "B" auswählst.
+### Step 7 - Assembling the bottom side of the faceplate
+Open the file [ibom_faceplate.html](https://html-preview.github.io/?url=https://github.com/casartar/Tangara-Workshop/blob/main/ibom_faceplate.html) from this repository. Switch the ibom for the bottom side by selecting the ‘B’ button at the top right.
 
-Gehe zur Rakelstation dort bekommst du deine Faceplate-Platine. Hier wird die Bottom-Seite mit Lötpaste versehen.
+Go to the squeegee station where you will get your faceplate board, already with solder paste applied.
 
-Verfahre wie zuvor. Die Teile sind mit in der zweiten Box die du bekommen hattest.
+Proceed as before. The parts are in the second box you received.
 
-Bist du fertig mit dem Bestücken begib dich vorsichtig mit deiner Platine zur Backstation. Hier wird zum dritten Mal gebacken.
-Und auch hier gibt es ein Vergleichsbild:
+Once you have finished assembling, carefully take your board to the baking station. Bake here for the third time.
+For comparision how it should loook, see the following picture:
 ![](Pictures/PCB6.jpg)
 
 
-### Schritt 8 - Pause
-Mache eine kleine Pause während der Ofen seinen Job erledigt. Der Bestückungspart ist fast geschafft.
+### Step 8 - Break
+Take a short break while the oven does its job. The assembly part is almost done.
 
 
-### Schritt 9 - Festlöten des Displays
-Suche in der Tüte nach dem Display. Das Display wird auf der Top-Seite der Faceplate angelötet.
 
-Setze die Platine in die Display-Positionierung-Hilfe.
-![](Pictures/Display_01.jpg)
 
-Löte mit dem Lötkolben das Display fest.
-Achte sehr genau darauf, dass die Kontakte des Kabels kongruent mit den Kupferpads auf der Platine platziert sind. Der orange Teil des Kabels sollte nahezu bündig mit dem Rand der Platine sein. Nutze ggf. Tesafilm wenn du dir unsicher bist. Das erähltst du von uns.
-Fang erst mit den beiden ganz äußeren Pads an und arbeite dich dann weiter vor. Korrekturen sind nur noch schwer möglich, wenn alles schon verlötet ist, frage deswegen bei uns nach wenn du dir unsicher bist.
 
-Das Lötzinn soll durch die kleinen Löcher der flexiblen Leiterbahn auf die Platine da drunter fliessen.
+### Step 9 - Soldering the display
+Look for the display in the bag. The display is soldered to the top side of the faceplate.
 
-**Das Display noch nicht festkleben!**
+Place the board in the display positioning aid.
+
+Make very sure that the contacts of the cable are positioned congruently with the copper pads on the board. The orange part of the cable should be almost flush with the edge of the circuit board. If necessary, use sellotape if you are unsure. We will tell you how.
+
+Solder the display in place with the soldering iron.
+
+Start with the two outer pads first and then work your way forward. Corrections are difficult to make if everything is already soldered, so ask us if you are unsure.
+
+The solder should flow through the small holes in the flexible conductor track onto the circuit board underneath.
+
+**Do not glue the display yet!**
 
 ![](Pictures/Display_02.jpg)
 
 
-### Schritt 10 - Festlöten des Vibrationsmotors
-Suche in der Tüte nach dem Motor. Der Vibrationsmotor wird auf der Bottom-Seite der Faceplate angelötet.
+### Step 10 - Soldering the vibration motor
+Look for the motor in the bag. The vibration motor is soldered to the bottom side of the faceplate.
 
-Löte den Vibrationsmotor an die beiden Pads die mit "Haptics" beschriftet sind. Rot an + und Blau an -. Nach dem Löten wird die Schutzfolie vom Vibrations-Motor abgezogen, und der dann aufgeklebt. Achte darauf, das die Kabel flach und ohne mechanische Belastung liegen.
+Solder the vibration motor to the two pads labelled ‘Haptics’. Red cable to + and blue cable to -. After soldering, remove the protective film from the vibration motor and stick it on. Make sure that the cables lie flat and without mechanical stress.
 ![](Pictures/PCB7.jpg)
 
 
-### Schritt 11 - Faceplate Rework
-Begibt dich mit der fertigen Faceplate zur Rework-Station. Dort wird geprüft, ob es Kurzschlüsse gibt und diese werden ggf. beseitigt. 
-Hier bekommst Du auch das Flachbandkabel, das beide Platinen verbindet.
+### Step 11 - Faceplate rework
+Take the finished faceplate to the rework station. There we will check whether there are any short circuits and these are eliminated if necessary. 
+Here you will also receive the ribbon cable that connects the two boards.
 
 
-### Schritt 12 - Mechanischer Zusammenbau
-Wenn alles funktioniert bekommst die Gehäuseteile. Alle anderen mechanischen Teile findest du in deiner Tüte.
+### Step 13 - Mechanical assembly
+If everything works, you will receive the housing parts. You will find all the other mechanical parts in your bag.
 
-Gehe zu deinem Platz zurück und breite die mechanischen Teile vor dir aus.
-Du solltest nun folgende Komponenten vor dir haben:
+Go back to your seat and spread out the mechanical parts in front of you.
+You should now have the following components in front of you:
 
-- 4x Schrauben M2 kurz
-- 4x Schrauben M2 lang
-- 4x Distanzhülsen M2
-- 1x Gehäuse Vorderseite
-- 1x Gehäuse Rückseite
-- 1x Touchwheel Cover
-- 1x Faceplate
-- 1x Mainboard
-- 1x Flachbandkabel 
-- 1x Akku
-- 1x Halterahmen für den Akku
-- 2x Kappe für Taster
-- 1x Kappe für Schiebeschalter
-- 1x Abdeckung für die SD-Karte
-- 1x Displayabdeckung
+- 4x M2 screws, short
+- 4x M2 screws, long
+- 4x M2 spacer sleeves M2
+- 1x enclosure front
+- 1x enclosure rear
+- 1x touchwheel cover
+- 1x completed faceplate
+- 1x completed mainboard
+- 1x ribbon cable 
+- 1x battery
+- 1x holding frame for the battery
+- 2x cap for volume buttons
+- 1x cap for slide switch (power)
+- 1x cover for the SD card
+- 1x transparent display cover
 
-Einen Torx-Schraubendreher und einen Innensechskant musst du dir mit deinem Nachbarn teilen.
+You will have to share a Torx screwdriver and a hexagon socket with your neighbour.
 
 ![](Pictures/Parts_01.jpg)
 
-Schraube als erstes die langen Schrauben von unten in das Gehäuse für die Rückseite.
+First, insert the long screws from below into the rear encloser.
 ![](Pictures/Assembly1.jpg)
 
-Platziere den Halterahmen für den Akku wie im Bild abgebildet. Auf der linken Seite des Bildes befindet sich die Öffnung für die Laut/Leiserbuttons.
+Place the holding frame for the battery as shown in the picture. On the left side of the picture is the opening for the volume up/down buttons.
 ![](Pictures/Assembly2.jpg)
 
-Platziere den Akku wie im Bild gezeigt.
+Place the battery as shown in the picture.
 ![](Pictures/Assembly3.jpg)
 
-Setze das Mainboard auf die Schrauben. Achte darauf das Batteriekabel wie abgebildet zu verlegen.
+Place the mainboard on the screws. Make sure to position the battery cable as shown.
 ![](/Pictures/Assembly4.jpg)
 
-Schraube die Distanzhülsen auf die Schrauben in den Ecken.
-**Stelle sicher, dass der Schalter auf "Aus" steht (untere Stellung)**. Schließe dann den Akku an.
+Screw the spacer sleeves onto the screws in the corners.
+**Make sure that the switch is in the ‘off’ position (lower position)**. Then connect the battery.
 ![](/Pictures/Assembly5.jpg)
 
-Setze den Schiebeschalter ein. Achte darauf, dass du ihn vollständig einsetzt.
+Insert the slide switch cap. Make sure that it is fully inserted.
 ![](/Pictures/Assembly6.jpg)
 ![](/Pictures/Assembly7.jpg)
 
-Jetzt wird es kniffelig. Am Mainboard: Klappe den schwarzen Arm am Stecker für das Flachbandkabel nach oben. Stecke das Flachbandkabel ein. Achte darauf, dass die blaue Seite nach oben zeigt und das Kabel vollständig eingesteckt ist. Klappe dann den schwarzen Arm herunter um das Kabel zu sichern.
+Now it gets tricky. On the mainboard: Carefully fold up the black cover on the connector for the ribbon cable. Plug in the ribbon cable. Make sure that the blue side is facing upwards and that the cable is fully inserted. Then fold down the black cover to secure the cable in place.
 ![](/Pictures/Assembly8.jpg)
 
-Nimm die Faceplate-Platine und positioniere sie so, dass du auf der gegenüberliegenden Seite nun auch das Flachbandkabel einstecken kannst.
+Take the faceplate board and position it so that you can now also plug in the ribbon cable on the opposite side.
 ![](/Pictures/Assembly9.jpg)
 ![](/Pictures/Assembly10.jpg)
 ![](/Pictures/Assembly11.jpg)
 
-Klappe die Faceplate auf die Distanzhülsen. Achte darauf dass sich das Flachbandkabel korrekt zusammenfaltet.
-Lege das Touchwheel Cover obenauf wie abgebildet.
+
+Fold the faceplate onto the spacer sleeves. Make sure that the ribbon cable folds up correctly.
+Place the touchwheel cover on top as shown.
 ![](/Pictures/Assembly12.jpg)
 
-Ziehe die Schutzfolie von der Displayabdeckung.
-Vermeide mit deinen Fingern direkt auf die Flächen zu tippen um Fingerabdrücke zu vermeiden.
+Remove the protective film from the transparent display cover.
+Avoid touching the surface directly with your fingers to prevent fingerprints.
 ![](/Pictures/Assembly13.jpg)
 ![](/Pictures/Assembly14.jpg)
 
-Ziehe die Schutzfolie vom Display und lege die Abdeckung vorsichtig auf das Display.
+Remove the protective film from the display and carefully place the cover on the display.
 ![](/Pictures/Assembly15.jpg)
 
-Jetzt wirds noch kniffeliger! Lege vorsichtig die vordere Abdeckung des Tangaras auf die Facplate, versuche vor allem die Displayabdeckung korrekt zu positionieren. Das Touchwheel kannst du auch von der Vorderseite richtig positionieren (im zusammengebauten Zustand). Wenn sich die Gehäusevorderseite bündig auf der GehäuseBottom-Seite positionieren lässt, hast du es fast geschafft.
+Now it gets even trickier! Carefully place the front cover of the Tangara on the faceplate, especially try to position the display cover correctly. You can also position the touchwheel correctly later from the front (when assembled). If the front of the housing can be positioned flush with the bottom of the housing, you're almost there.
 ![](/Pictures/Assembly16.jpg)
 
-Schraube den Tangara noch nicht zu! Jetzt musst du noch die Buttons hereinfummeln.
-Am besten hälst du den Tangara mit einer Hand gerade so weit zusammen, dass die rechte Seite intakt bleibt und du die Buttons auf der linken Seite gerade so einschieben kannst. Die Bilder zeigen dir ungefähr wie.
+Don't screw the tangara shut yet! Now you have to fiddle in the buttons.
+It's best to hold the tangara together with one hand just enough so that the right side remains intact and you can just about push the buttons in on the left side. The pictures show you roughly how.
 ![](/Pictures/Assembly17.jpg)
 ![](/Pictures/Assembly18.jpg)
 ![](/Pictures/Assembly19.jpg)
 
-Jetzt kannst du den Tangara zuschrauben. 
-Falls du eine SD-Karte mitgebracht hast, kannst du noch die SD-Karten-Abdeckung aufstecken und du bist fertig!
+Now you can screw the Tangara shut. 
+If you have brought an SD card with you, you can attach the SD card cover and you're done!
 ![](/Pictures/Assembly20.jpg)
 ![](/Pictures/Assembly21.jpg)
 
-## Weitere Informationen
+## Further information
 - https://cooltech.zone/tangara/
 - https://www.crowdsupply.com/cool-tech-zone/tangara
+
+
