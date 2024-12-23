@@ -3,6 +3,7 @@
 
 ## Kosten
 Der Workshop kostet 100€. Am liebsten in Bar, im Notfall per Paypal.
+
 ## Voraussetzung
 Erfahung mit dem SMD-Bestücken von Platinen oder gute Augen, eine ruhige Hand und Geduld. 
 ## Mitbringen
@@ -17,6 +18,22 @@ Erfahung mit dem SMD-Bestücken von Platinen oder gute Augen, eine ruhige Hand u
     - Kopfhörer mit Bluetooth
 
 ## Anleitung
+
+### Übersicht
+1. Bestücken des Mainboards, Oberseite
+1. Pause 
+1. Bestücken des Mainboards, Unterseite
+1. Pause
+1. Akku-Stecker, Audio-Buchse anlöten
+1. Mainboard Rework
+1. Programmieren
+1. Bestücken der Faceplatem Unterseite
+1. Pause
+1. Vibrationsmotor anlöten
+1. Display anlöten
+1. Faceplate Rework
+1. Mechanischer Zusammenbau
+
 
 ### Schritt 1 - Bestücken der Top-Seite des Mainboards
 Als erstes musst du die Datei [ibom_mainboard.html](https://html-preview.github.io/?url=https://github.com/casartar/Tangara-Workshop/blob/main/ibom_mainboard.html) öffnen. Die Datei (ibom) enthält eine Liste der Bauteile, die du bestücken musst und zeigt an, wo diese auf der Platine hingehören. Du musst als erstes die Top-Seite auswählen, indem du oben rechts den Button mit "F" auswählst. Topseite ist hier nicht als "Oberseite" im fertigen Tangara zu verstehen, sondern nur innerhalb der Platinenfertigung die als Oberseite deklarierte Seite. Wähle außerdem mit dem Zahnrad die Voreinstellung aus, dass "Pin 1" in der ibom Ansicht markiert werden soll, um sicherzustellen, dass du die Teile korrekt orientierst.
@@ -80,10 +97,17 @@ Zur verdeutlichung nochmal als Bilder:
 Löte dann die Audio-Buchse J1 fest.
 
 ![](Pictures/PCB51.jpg)
-### Schritt 6 - Rework Mainboard
-Begibt dich mit dem fertigen Mainboard zur Reworkstation. Dort wird geprüft, ob es Kurzschlüsse gibt und diese werden ggf. beseitigt. 
 
-### Schritt 7 - Bestücken der Bottom-Seite der Faceplate
+
+### Schritt 6 - Rework Mainboard
+Begib dich mit dem fertigen Mainboard zur Reworkstation. Dort wird geprüft, ob es Kurzschlüsse gibt und diese werden ggf. beseitigt. 
+
+
+### Schritt 7 - Programmieren
+Gehe danach zur Programmierstation. Hier bekommst Du die Faceplate und kannst daran weiterarbeiten. Wir versorgen in der gleichen Zeit das Mainboard mit Firmware. Hier testen wir auch die wichtigsten Funktionen des Mainboards.
+
+
+### Schritt 8 - Bestücken der Bottom-Seite der Faceplate
 Öffne die Datei [ibom_faceplate.html](https://html-preview.github.io/?url=https://github.com/casartar/Tangara-Workshop/blob/main/ibom_faceplate.html) aus diesem Repository. Schalte die ibom für die Unterseite um, indem du oben rechts den Button "B" auswählst.
 
 Gehe zur Rakelstation dort bekommst du deine Faceplate-Platine. Hier wird die Bottom-Seite mit Lötpaste versehen.
@@ -94,17 +118,13 @@ Bist du fertig mit dem Bestücken begib dich vorsichtig mit deiner Platine zur B
 Und auch hier gibt es ein Vergleichsbild:
 ![](Pictures/PCB6.jpg)
 
-### Schritt 8 - Pause
+
+### Schritt 9 - Pause
 Mache eine kleine Pause während der Ofen seinen Job erledigt. Der Bestückungspart ist fast geschafft.
 
-### Schritt 9 - Festlöten des Vibrationsmotors auf der Bottom-Seite der Faceplate
-Suche in der Tüte nach dem Motor.
 
-Löte den Vibrationsmotor an die beiden Pads die mit "Haptics" beschriftet sind. Rot an + und Blau an -. Nach dem Löten wird die Schutzfolie vom Vibrations-Motor abgezogen, und der dann aufgeklebt. Achte darauf, das die Kabel flach und ohne mechanische Belastung liegen.
-![](Pictures/PCB7.jpg)
-
-### Schritt 10 - Festlöten des Displays auf der Top-Seite der Faceplate
-Suche in der Tüte nach dem Display.
+### Schritt 10 - Festlöten des Displays
+Suche in der Tüte nach dem Display. Das Display wird auf der Oberseite der Faceplate angelötet.
 
 Setze die Platine in die Display-Positionierung-Hilfe.
 Löte mit dem Lötkolben das Display fest.
@@ -112,15 +132,28 @@ Achte sehr genau darauf, dass die Kontakte des Kabels kongruent mit den Kupferpa
 
 Fang erst mit den beiden ganz äußeren Pads an und frage dann nach ob das so passt. Korrekturen sind nur noch schwer möglich, wenn alles schon verlötet ist.
 
+Das Lötzinn soll durch die kleinen Löcher der flexiblen Leiterbahn auf die Platine da drunter fliessen.
+
+**Das Display noch nicht festkleben!**
+
 ![](Pictures/Display_02.jpg)
 
-### Schritt 11 - Programmieren
 
+### Schritt 11 - Festlöten des Vibrationsmotors
+Suche in der Tüte nach dem Motor. Der Vibrationsmotor wird auf der Unterseite der Faceplate angelötet.
+
+Löte den Vibrationsmotor an die beiden Pads die mit "Haptics" beschriftet sind. Rot an + und Blau an -. Nach dem Löten wird die Schutzfolie vom Vibrations-Motor abgezogen, und der dann aufgeklebt. Achte darauf, das die Kabel flach und ohne mechanische Belastung liegen.
+![](Pictures/PCB7.jpg)
+
+
+### Schritt 12 - Faceplate Rework
 Begibt dich mit der fertigen Faceplate zur Rework-Station. Dort wird geprüft, ob es Kurzschlüsse gibt und diese werden ggf. beseitigt. 
+Hier bekommst Du auch das Flachbandkabel, das beide Platinen verbindet.
 
-Gehe danach zur Programmierstation, dort werden die Controller mit Firmware versorgt und getestet ob alles funktioniert.
 
-### Schritt 12 - Mechanischer Zusammenbau
+
+
+### Schritt 13 - Mechanischer Zusammenbau
 Wenn alles funktioniert bekommst die Gehäuseteile. Alle anderen mechanischen Teile findest du in deiner Tüte.
 
 Gehe zu deinem Platz zurück und breite die mechanischen Teile vor dir aus.
@@ -134,6 +167,7 @@ Du solltest nun folgende Komponenten vor dir haben:
 - 1x Touchwheel Cover
 - 1x Faceplate
 - 1x Mainboard
+- 1x Flachbandkabel 
 - 1x Akku
 - 1x Halterahmen für den Akku
 - 2x Kappe für Taster
@@ -159,14 +193,14 @@ Setze das Mainboard auf die Schrauben. Achte darauf das Batteriekabel wie abgebi
 ![](/Pictures/Assembly4.jpg)
 
 Schraube die Distanzhülsen auf die Schrauben in den Ecken.
-Stelle sicher, dass der Schalter auf "Aus" steht (untere Stellung). Schließe dann den Akku an.
+**Stelle sicher, dass der Schalter auf "Aus" steht (untere Stellung)**. Schließe dann den Akku an.
 ![](/Pictures/Assembly5.jpg)
 
 Setze den Schiebeschalter ein. Achte darauf, dass du ihn vollständig einsetzt.
 ![](/Pictures/Assembly6.jpg)
 ![](/Pictures/Assembly7.jpg)
 
-Jetzt wird es kniffelig. Klappe den schwarzen Arm am Stecker für das Flachbandkabel nach oben. Stecke das Flachbandkabel ein. Achte darauf, dass die blaue Seite nach oben zeigt und das Kabel vollständig eingesteckt ist. Klappe dann den schwarzen Arm herunter um das Kabel zu sichern.
+Jetzt wird es kniffelig. Am Mainboard: Klappe den schwarzen Arm am Stecker für das Flachbandkabel nach oben. Stecke das Flachbandkabel ein. Achte darauf, dass die blaue Seite nach oben zeigt und das Kabel vollständig eingesteckt ist. Klappe dann den schwarzen Arm herunter um das Kabel zu sichern.
 ![](/Pictures/Assembly8.jpg)
 
 Nimm die Faceplate-Platine und positioniere sie so, dass du auf der gegenüberliegenden Seite nun auch das Flachbandkabel einstecken kannst.
