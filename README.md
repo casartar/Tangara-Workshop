@@ -1,6 +1,5 @@
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/casartar/README.md)
-[![de](https://img.shields.io/badge/lang-en-green.svg)](https://github.com/casartar/README.de.md)
-
+[![en](https://img.shields.io/badge/lang-en-green.svg)](https://github.com/casartar/Tangara-Workshop/blob/main/README.md)
+[![de](https://img.shields.io/badge/lang-de-red.svg)](https://github.com/casartar/Tangara-Workshop/blob/main/README.de.md)
 
 
 # Tangara workshop
@@ -9,7 +8,7 @@
 ## Costs
 The workshop costs 100€. Preferably payable in cash, alternatively payable by Paypal.
 
-## Prerequisite
+## Prerequisites
 Experience with SMD assembly of circuit boards or good eyes, a steady hand and patience. 
 
 ## Bring along
