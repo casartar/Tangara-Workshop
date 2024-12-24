@@ -21,6 +21,7 @@ Experience with SMD assembly of circuit boards or good eyes, a steady hand and p
     - Tweezers suitable for SMD work
     - Headphones with 3.5 mm jack
     - Headphones with Bluetooth
+    - usb-c cable
 
 ## Instructions
 
@@ -73,7 +74,7 @@ Place the board in the assembly aid. Otherwise proceed as before.
 
 Please note that there are two lines in the ibom for 10k resistors. However, it is the same component.
 
-Make sure that the SW1 and SW2 switches are positioned correctly, straight and as far inwards as possible.
+Make sure that the SW2 and SW3 switches are positioned correctly, straight and as far inwards as possible.
 
 With the USB socket J6, make sure that the legs are positioned in the centre of the slotted holes.
 
