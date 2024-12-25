@@ -157,7 +157,7 @@ Take the finished faceplate to the rework station. There we will check whether t
 Here you will also receive the ribbon cable that connects the two boards.
 
 
-### Step 13 - Mechanical assembly
+### Step 12 - Mechanical assembly
 If everything works, you will receive the housing parts. You will find all the other mechanical parts in your bag.
 
 Go back to your seat and spread out the mechanical parts in front of you.
