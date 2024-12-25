@@ -161,6 +161,11 @@ Here you will also receive the ribbon cable that connects the two boards.
 If everything works, you will receive the housing parts. You will find all the other mechanical parts in your bag.
 
 Go back to your seat and spread out the mechanical parts in front of you.
+
+#### Step 12a 
+You should now install the display. For this you can use again the mount helper (the one with the hinge). Or carefully place the display exactly onto the markings on the faceplate. 
+
+#### Step 12b
 You should now have the following components in front of you:
 
 - 4x M2 screws, short
