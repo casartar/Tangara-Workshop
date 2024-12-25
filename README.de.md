@@ -157,6 +157,11 @@ Hier bekommst Du auch das Flachbandkabel, das beide Platinen verbindet.
 Wenn alles funktioniert bekommst die Gehäuseteile. Alle anderen mechanischen Teile findest du in deiner Tüte.
 
 Gehe zu deinem Platz zurück und breite die mechanischen Teile vor dir aus.
+
+#### Schritt 12a 
+Klebe nun das Display auf. Dazu gibt es wieder die Montagehilfe mit dem Scharnier. Es geht aber auch ohne - setze das Display genau in die aufgedruckten Markierungen.
+
+#### Schritt 12b
 Du solltest nun folgende Komponenten vor dir haben:
 
 - 4x Schrauben M2 kurz
